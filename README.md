@@ -11,7 +11,7 @@ Este proyecto contiene un **código con un bucle infinito** diseñado para **ana
 A continuación se inserta una **captura de pantalla** del consumo de memoria durante la prueba del bucle infinito.
 
 ```md
-![Captura del consumo de memoria](Evidencia/helloworld.png "Evidencia del consumo de memoria")
+![Captura del consumo de memoria](Evidencia/helloworld.png)
 ```
 
 ---
